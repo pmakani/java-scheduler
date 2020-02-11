@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.22.3](https://www.github.com/googleapis/java-scheduler/compare/v1.22.2...v1.22.3) (2020-02-11)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-core to v1.92.5 ([df0d394](https://www.github.com/googleapis/java-scheduler/commit/df0d394b67da569e735d2a4aa90fbf20435bbdae))
+
 ### [1.22.2](https://www.github.com/googleapis/java-scheduler/compare/v1.22.1...v1.22.2) (2020-02-05)
 
 
